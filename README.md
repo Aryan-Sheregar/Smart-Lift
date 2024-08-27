@@ -19,5 +19,10 @@ The Smart Lift project is designed to enhance the efficiency and user experience
 **Computer Vision Libraries**: OpenCV
 
 **Hardware Components**: Raspberry Pi 4, Webcam, RGB LEDs.
+![Photo](https://github.com/user-attachments/assets/cd8a4271-7fe4-4e4a-af96-9cf69bcab931)
+
+https://github.com/user-attachments/assets/c41a1ee6-ca13-49c0-9be8-debdd864d9dc
+
+
 
 
